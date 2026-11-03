@@ -1,0 +1,24 @@
+{
+  "name": "com.codex.lan-remote-input",
+  "version": "1.0.0",
+  "displayName": "LAN Remote Input",
+  "description": "Send named key and button actions between Unity players on the same local network using lightweight UDP packets.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Codex"
+  },
+  "keywords": [
+    "lan",
+    "multiplayer",
+    "input",
+    "keyboard",
+    "remote"
+  ],
+  "samples": [
+    {
+      "displayName": "Basic Remote Input",
+      "description": "Example scripts for moving a cube from another device and wiring touch UI buttons.",
+      "path": "Samples~/BasicRemoteInput"
+    }
+  ]
+}

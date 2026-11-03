@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1442407187174040793
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3709064240806069931}
+  - component: {fileID: 4415713103774381233}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3709064240806069931
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1442407187174040793}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -7.834787, y: 3.4506888, z: -0.12619002}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4415713103774381233
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1442407187174040793}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef422bcf011fe454bafa141a5036ada6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player1MiniGun: 0
+  player2MiniGun: 0
+  player3MiniGun: 0
+  player4MiniGun: 0
+  player1Dodger: 0
+  player2Dodger: 0
+  player3Dodger: 0
+  player4Dodger: 0
+  player1BigOleTank: 0
+  player2BigOleTank: 0
+  player3BigOleTank: 0
+  player4BigOleTank: 0
+  player1Sniper: 0
+  player2Sniper: 0
+  player3Sniper: 0
+  player4Sniper: 0
+  player1Homing: 0
+  player2Homing: 0
+  player3Homing: 0
+  player4Homing: 0
+  player1Frenzy: 0
+  player2Frenzy: 0
+  player3Frenzy: 0
+  player4Frenzy: 0
+  player1Clone: 0
+  player2Clone: 0
+  player3Clone: 0
+  player4Clone: 0
+  player1BoomerBoi: 0
+  player2BoomerBoi: 0
+  player3BoomerBoi: 0
+  player4BoomerBoi: 0
+  player1BlackHole: 1
+  player2BlackHole: 0
+  player3BlackHole: 0
+  player4BlackHole: 0
+  player1RocketShip: 0
+  player2RocketShip: 1
+  player3RocketShip: 0
+  player4RocketShip: 0

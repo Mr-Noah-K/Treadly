@@ -1,0 +1,16 @@
+{
+  "name": "Codex.LanRemoteInput",
+  "rootNamespace": "Codex.LanRemoteInput",
+  "references": [],
+  "includePlatforms": [],
+  "excludePlatforms": [
+    "WebGL"
+  ],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Codex.LanRemoteInput.Editor",
+  "rootNamespace": "Codex.LanRemoteInput.Editor",
+  "references": [
+    "Codex.LanRemoteInput"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

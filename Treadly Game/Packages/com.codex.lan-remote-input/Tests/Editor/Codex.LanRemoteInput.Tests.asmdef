@@ -1,0 +1,23 @@
+{
+  "name": "Codex.LanRemoteInput.Tests",
+  "rootNamespace": "Codex.LanRemoteInput.Tests",
+  "references": [
+    "Codex.LanRemoteInput"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [
+    "UNITY_INCLUDE_TESTS"
+  ],
+  "versionDefines": [],
+  "noEngineReferences": false,
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}

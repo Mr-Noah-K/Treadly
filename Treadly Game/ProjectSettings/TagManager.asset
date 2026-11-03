@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Player1
+  - Floor
+  - shield1
+  - Player2
+  - shield2
+  - Player3
+  - shield3
+  - Player4
+  - shield4
+  - UpgradeUI
+  - PlayerT1
+  - PlayerT2
+  - PlayerT3
+  - Player1B1
+  - Player1B2
+  - Player1B3
+  - Player2B1
+  - Player2B2
+  - Player2B3
+  - Player3B1
+  - Player3B2
+  - Player3B3
+  - Point UI
+  - Player1P1
+  - Player1P2
+  - Player1P3
+  - Player2P1
+  - Player2P2
+  - Player2P3
+  - Player3P1
+  - Player3P2
+  - Player3P3
+  - Player4P1
+  - Player4P2
+  - Player4P3
+  - Main UI
+  - Controls UI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
